@@ -1,0 +1,11 @@
+**/build
+**/out
+**/classes
+**/.gradle
+**/.idea
+**/*.iml
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/libraries/
+**/buildSrc
+
